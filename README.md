@@ -5,7 +5,7 @@
 - Alerts if a male voice is uploaded.
 - Record your voice or upload a `.wav` file.
 
-  ## Tech Stack
+## Tech Stack
 - Python 3
 - Tkinter (GUI)
 - Scikit-learn (ML Models)
@@ -17,11 +17,11 @@
 - `gender_model.joblib`: Binary classifier for gender
 - `emotion_model.joblib`: Emotion classifier.
 
-  ##  Run the App
+##  Run the App
   python gui.py
 
 
-  ## Dataset
+## Dataset
 Based on Toronto Emotional Speech Set (TESS).
 
 
