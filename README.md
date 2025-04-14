@@ -1,5 +1,3 @@
-# Emotion Detection through Voice
-
 
 ##  Features
 - Detects emotions: Happy, Angry, Sad, Neutral, etc.
